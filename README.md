@@ -12,5 +12,4 @@ Commit and push the file main.c created once you completed all the steps of the 
 https://drive.google.com/file/d/1DJ-rPDt_go5H-5WV9JEWBPVCqRFRlYcp/view?usp=sharing
 
 ## Conclusion
-
-In this section, you should add the conclusions, suggestions, and/or problems of the laboratory activities. Each team member must add his/her own conclusion (5 lines as minimum for each member).
+La práctica 5 consistió en una introducción de lo que es Mplab. Lo primero que se hizo fue descargar el programa y su compilador. Una vez ya instalado lo que se hizo fue entrar en la configuración y seleccionar el microcontrolador a utilizar. Por ultimo se vio como programar dentro del programa.  
